@@ -1,0 +1,12 @@
+/**
+ * Ripple Client
+ * Extra styles for node-webkit
+ */
+
+#logo {
+  display: none;
+}
+
+.pm-single header {
+  height: 0;
+}
